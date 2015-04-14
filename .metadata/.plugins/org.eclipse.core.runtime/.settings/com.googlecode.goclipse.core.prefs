@@ -1,0 +1,12 @@
+GoToolPreferences.GO_ORACLE_Path=/Users/CameronGrant/Documents/Go/bin/oracle
+com.googlecode.goclipse.compiler.path=/usr/local/go/bin/go
+com.googlecode.goclipse.documentor.path=/usr/local/go/bin/godoc
+com.googlecode.goclipse.formatter.path=/usr/local/go/bin/gofmt
+com.googlecode.goclipse.goarch=amd64
+com.googlecode.goclipse.goos=darwin
+com.googlecode.goclipse.gopath=/Users/CameronGrant/Documents/Go
+com.googlecode.goclipse.goroot=/usr/local/go
+console.do_activate=true
+daemon_console_enable=false
+daemon_path=/Users/CameronGrant/Documents/Go/bin/gocode
+eclipse.preferences.version=1
